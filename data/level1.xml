@@ -1,6 +1,6 @@
 <level>
 	<title>The Coffee Machine has been hacked</title>
-	<subtitle>Use the arrow keys to move from node to node.\nYou can only change direction when standing on a node.\n\nFixing the coffee machine is your first and most important task...\nI mean... Yeah, just fix it...</subtitle>
+	<subtitle>Use the arrow keys (or wasd) to move from node to node.\nYou can only change direction when standing on a node.\n\nFixing the coffee machine is your first and most important task...\nI mean... Yeah, just fix it...</subtitle>
 	<endtext>Productivity restored !</endtext>
 	<nodes>
 		<node id="1" x="40" y="40" />
