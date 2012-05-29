@@ -29,7 +29,7 @@ _spriteSurface = None
 _gameState = None
 
 # TODO: use config
-_fontFile = "data/DejaVuSansMono.ttf"
+_fontFile = "/opt/nodereviver/data/DejaVuSansMono.ttf"
 _storyText = ["Oh noes ! Our super-expensive equipment     ",
 "has been hacked !",
 "  ",
