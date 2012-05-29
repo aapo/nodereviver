@@ -21,7 +21,7 @@ import pygame.locals
 class KeyMap:
     def __init__(self):
         self.up = [pygame.locals.K_UP, pygame.locals.K_w, pygame.locals.K_KP8]
-        self.down = [pygame.locals.K_DOWN, pygame.locals.K_x, pygame.locals.K_KP2]
+        self.down = [pygame.locals.K_DOWN, pygame.locals.K_s, pygame.locals.K_KP2]
         self.left = [pygame.locals.K_LEFT, pygame.locals.K_a, pygame.locals.K_KP4]
         self.right = [pygame.locals.K_RIGHT, pygame.locals.K_d, pygame.locals.K_KP6]
         self.pause = [pygame.locals.K_PAUSE, pygame.locals.K_p]
