@@ -1,0 +1,19 @@
+Source: nodereviver
+Section: user/games
+Priority: optional
+Maintainer: Aapo Rantalainen <aapo.rantalainen@gmail.com>
+Build-Depends: debhelper (>> 5.0.0), dh-buildinfo
+Standards-Version: 3.7.2
+Homepage: http://vincentpetry.net/games/nodereviver
+XSBC-Bugtracker: https://github.com/PVince81/nodereviver/issues
+
+Package: nodereviver
+Architecture: any
+Depends: ${shlibs:Depends}, python-pygame
+Description: Puzzlegame
+ .
+ You are a node reviver, your job is to reconnect nodes that have lost their
+ connections to each other. The connections between nodes will become active
+ once you've passed over them. The goal is to activate all connections to 
+ finish the level.
+

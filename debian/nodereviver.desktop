@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Name=Node Reviver
+Icon=nodereviver
+Exec=/usr/bin/nodereviver.sh
+X-Osso-Type=application/x-executable
+Terminal=false
+Categories=Game;
+

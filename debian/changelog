@@ -1,0 +1,10 @@
+nodereviver (0.1-maemo1) unstable; urgency=low
+
+  * Fremantle packaging	
+  * Optified
+  * Use backspace as escape.
+  * wasd (instead of waxd)
+  * 800x480px
+
+ -- Aapo Rantalainen <aapo.rantalainen@gmail.com>  Tue, 17 Apr 2012 13:49:31 +0300
+
