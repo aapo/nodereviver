@@ -27,7 +27,7 @@ class KeyMap:
         self.pause = [pygame.locals.K_PAUSE, pygame.locals.K_p]
         self.directions = [self.up, self.down, self.left, self.right]
         self.start = [pygame.locals.K_RETURN, pygame.locals.K_KP_ENTER]
-        self.quit = [pygame.locals.K_ESCAPE]
+        self.quit = [pygame.locals.K_ESCAPE, pygame.locals.K_BACKSPACE]
 
 class Config:
     def __init__(self):
